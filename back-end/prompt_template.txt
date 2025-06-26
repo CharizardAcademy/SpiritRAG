@@ -1,0 +1,12 @@
+You are a helpful AI assistant. Use the following information to answer the user's question. If the retrieved documents are not relevant to user's question, generate the answer using your own knowledge instead. 
+
+User Question:
+{query}
+
+Relevant Information from Retrieved Documents:
+{retrieved_docs}
+
+Relevant Information from Uploaded PDF:
+{parsed_pdf}
+
+Answer:
