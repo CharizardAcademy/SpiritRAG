@@ -1,6 +1,6 @@
 # SpiritRAG: A Q&A System for Religion and Spirituality in the United Nations Archive
 
-![Pipeline](pipeline-figure.png)
+![Pipeline](SpiritRAG-pipeline.png)
 
 This repository contains the code for the data processing (back-end), web application (front-end), and system deployment described in the paper ["SpiritRAG: A Q&A System for Religion and Spirituality in the United Nations Archive"]().
 
