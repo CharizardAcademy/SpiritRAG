@@ -162,14 +162,10 @@ const Chat = () => {
     for (const fileName of fileNames) {
       const folderName = fileName.split("-parsed.json")[0].replace(/-\w+$/, "");
 
-      // const possiblePaths = [
-      //   `/home/yingqiang/projects/spirituality/data/education/crawled_data/${folderName}/metadata.jsonl`,
-      //   `/home/yingqiang/projects/spirituality/data/health/crawled_data/${folderName}/metadata.jsonl`,
-      // ];
-
-       const possiblePaths = [
-        `/home/yingqiang/projects/spirituality/data/education/crawled_data/${folderName}/metadata.jsonl`,
+      const possiblePaths = [
+        `/path/to/your/metadata`,
       ];
+
 
       let metadata = null;
 
