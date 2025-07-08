@@ -39,5 +39,5 @@ def analyze_metadata(base_path):
         print(f"{language}: {len(subjects)}")
 
 if __name__ == "__main__":
-    base_path = "/srv/liri_storage/data/yingqiang/projects/spirituality/health/crawled_data/"
+    base_path = "/path/to/your/data/"
     analyze_metadata(base_path)
