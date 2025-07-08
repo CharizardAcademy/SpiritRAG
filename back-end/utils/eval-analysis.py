@@ -2,7 +2,6 @@ import json
 import os
 import glob
 
-# filepath: /home/yingqiang/projects/spirituality/SpiritRAG/back-end/eval-analysis.py
 def compute_overall_average(jsonl_files):
     """
     Compute the overall average relevance, accuracy, usefulness, temporality, actionability
@@ -67,7 +66,7 @@ def compute_overall_average(jsonl_files):
 # Example usage
 if __name__ == "__main__":
     # Define the folder containing the JSONL files
-    folder_path = "/home/yingqiang/projects/spirituality/data/eval/"
+    folder_path = "/path/to/your/data/"
     
     # Get all JSONL files in the folder
     jsonl_files = glob.glob(os.path.join(folder_path, "*.jsonl"))
