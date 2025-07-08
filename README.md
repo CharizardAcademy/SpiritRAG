@@ -6,6 +6,10 @@ This repository contains the code for the data processing (back-end), web applic
 
 We have received official **reject** to open-source the UN-RES dataset. If you are interested in getting the resolution documents, please run the crawler script in the back-end folder yourself.
 
+## Claimer (as requested by the UN)
+
+The content of this publication has not been approved by the United Nations and does not reflect the views of the United Nations or its officials or Member States.
+
 ## Citation
 
 If you are using our platform, please cite the following paper in your work:
