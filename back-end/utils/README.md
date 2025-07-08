@@ -8,18 +8,13 @@ This repository provides two modular Python scripts designed to support automate
 
 2. **`parser.py`** – A document parser that extracts structured content from the downloaded PDFs (e.g., Markdown/JSON), optionally supporting OCR and layout analysis for complex documents.
 
----
-
 ## Prerequisites
 
 - Python 3.10+
 - ChromeDriver (you can download the latest ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/)). Your ChromeDriver must match with your Chrome browser.
-- OCR capabilities enabled (e.g., Tesseract or GPU-accelerated OCR via `docling`)
+- Crawler packages (`Selenium` and `BeautifulSoup`) and parser packages (`opencv` and `docling`)
 - Virtual environment recommended
 
 ## Usage
 
 Configure in __main__ block and run `python crawler.py` and `python parser.py`
-
-
-
