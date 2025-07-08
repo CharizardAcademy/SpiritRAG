@@ -272,6 +272,6 @@ class UNDocumentParser:
            
 
 if __name__ == "__main__":
-    parser = UNDocumentParser(doc_path="/srv/liri_storage/data/yingqiang/projects/spirituality/crawled_data/", output_path='/srv/liri_storage/data/yingqiang/projects/spirituality/parsed_data/', device='gpu')
+    parser = UNDocumentParser(doc_path="/path/to/your/data/", output_path='/path/to/your/data/', device='gpu')
     
     parser.parse_pdf()
