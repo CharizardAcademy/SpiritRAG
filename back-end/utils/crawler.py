@@ -351,6 +351,6 @@ if __name__ == "__main__":
         search_type="Use boolean operators",
         file_extensions=["pdf", "doc"],
         jump_when_restart=True,
-        download_dir="../cralwed_data/UNODS-continue/"
+        download_dir="/path/to/your/data/"
     )
     crawler.crawl_documents()
