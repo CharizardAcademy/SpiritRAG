@@ -2,7 +2,7 @@
 
 ![Pipeline](SpiritRAG-pipeline.png)
 
-This repository contains the code for the data processing (back-end), web application (front-end), and system deployment described in the paper ["SpiritRAG: A Q&A System for Religion and Spirituality in the United Nations Archive"]().
+This repository contains the code for the data processing (back-end), web application (front-end), and system deployment described in the paper ["SpiritRAG: A Q&A System for Religion and Spirituality in the United Nations Archive"](https://www.arxiv.org/abs/2507.04395).
 
 We have received official **reject** to open-source the UN-RES dataset. If you are interested in getting the resolution documents, please run the crawler script in the back-end folder yourself.
 
