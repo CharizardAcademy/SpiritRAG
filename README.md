@@ -18,7 +18,7 @@ If you are using our platform, please cite the following paper in your work:
 @article{
   title={{SpiritRAG: A Q&A System for Religion and Spirituality in the United Nations Archive}},
   author={Gao, Yingqiang and Winiger, Fabian and Montjourides, Patrick and Shaitarova, Anastassia and Gu, Nianlong and Peng-Keller, Simon and Schneider, Gerold},
-  journal={arXiv preprint arXiv:XXX},
+  journal={arXiv preprint arXiv:2507.04395},
   year={2025}
 }
 ```
