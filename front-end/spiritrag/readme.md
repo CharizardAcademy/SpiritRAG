@@ -46,4 +46,4 @@ The production files will be generated in the `dist` folder.
 - **Dependency Issues**: If you encounter issues during `npm install`, ensure your Node.js version is compatible with the dependencies listed in `package.json`.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [../../LICENSE](LICENSE) file for details.
